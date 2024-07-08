@@ -65,13 +65,13 @@
     "zustand": "^4.5.4"
   },
   "keywords": [],
-  "homepage": "https://github.com/puzansakya/nepali-datepicker-react",
+  "homepage": "https://github.com/puzansakya/nepali-react-datepicker",
   "bugs": {
-    "url": "https://github.com/puzansakya/nepali-datepicker-react"
+    "url": "https://github.com/puzansakya/nepali-react-datepicker"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/puzansakya/nepali-datepicker-react.git"
+    "url": "git+https://github.com/puzansakya/nepali-react-datepicker.git"
   },
   "license": "MIT",
   "author": "Puzan Sakya"
