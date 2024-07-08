@@ -11,6 +11,7 @@ import {
   isDateInConversionRange,
   MAX_NEP_YEAR,
   MIN_NEP_YEAR,
+  zero_pad,
 } from 'nepali-dayjs-date-converter'
 import {
   englishMonthMap,
@@ -19,7 +20,6 @@ import {
   parse_date,
   range,
   stitch_date,
-  zero_pad,
 } from '../../../calendar-engine'
 import { Next } from '../../../utilities/pipeline'
 

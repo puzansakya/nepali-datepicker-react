@@ -1,8 +1,6 @@
-export { zero_pad } from './calendar-engine'
-
 export { DATE_NULLIFIER } from './calendar-engine'
 
-export { ADToBS, BSToAD, lookUp } from 'nepali-dayjs-date-converter'
+export { ADToBS, BSToAD, lookUp, zero_pad } from 'nepali-dayjs-date-converter'
 
 export {
   selectEvents,
