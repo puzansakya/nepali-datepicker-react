@@ -43,7 +43,7 @@ export default defineConfig((configEnv) => ({
 
       name: 'ReactViteLibrary',
       formats: ['es', 'umd'],
-      fileName: (format) => `nepali-datepicker-react.${format}.js`,
+      fileName: (format) => `nepali-react-datepicker.${format}.js`,
     },
     rollupOptions: {
       external: [...Object.keys(packageJson.peerDependencies)],

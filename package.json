@@ -1,7 +1,7 @@
 {
-  "name": "nepali-datepicker-react",
+  "name": "nepali-react-datepicker",
   "private": false,
-  "version": "0.2.0",
+  "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -20,11 +20,11 @@
   "exports": {
     ".": {
       "types": "./dist/index.d.ts",
-      "default": "./dist/nepali-datepicker-react.es.js"
+      "default": "./dist/nepali-react-datepicker.es.js"
     }
   },
-  "main": "./dist/nepali-datepicker-react.es.js",
-  "module": "./dist/nepali-datepicker-react.umd.js",
+  "main": "./dist/nepali-react-datepicker.es.js",
+  "module": "./dist/nepali-react-datepicker.umd.js",
   "types": "./dist/index.d.ts",
   "devDependencies": {
     "@types/node": "^18.7.6",
